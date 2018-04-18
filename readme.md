@@ -68,7 +68,8 @@ print ' '
 
     
 ```
-[![](https://github.com/faustobranco/Text_Color/blob/master/Capture.PNG)](https://github.com/faustobranco/Text_Color/blob/master/Capture.PNG)
+![](Capture.PNG)
+
 
 ## Versioning
 ```
